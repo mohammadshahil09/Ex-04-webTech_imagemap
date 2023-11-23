@@ -152,7 +152,8 @@ both.html
 
 # Output:
 
-![1 png](https://github.com/Jeshwanthkumarpayyavula/Ex-04-webTech_imagemap/assets/145742402/3ed931a0-ea25-4bda-9b22-d24424e2f50e)
+![WhatsApp Image 2023-11-23 at 09 42 44_33b2bb11](https://github.com/mohammadshahil09/Ex-04-webTech_imagemap/assets/145742840/7d5a3fa6-c930-459b-9b81-e9ca3cab2df4)
+
 ![2 png](https://github.com/Jeshwanthkumarpayyavula/Ex-04-webTech_imagemap/assets/145742402/28c53a01-0253-45a2-bf38-e00accbec5cd)
 ![3 png](https://github.com/Jeshwanthkumarpayyavula/Ex-04-webTech_imagemap/assets/145742402/5d96ac71-875d-4acb-8e13-a09439ec90ad)
 ![4 png](https://github.com/Jeshwanthkumarpayyavula/Ex-04-webTech_imagemap/assets/145742402/e2c0a32a-9440-471f-a797-9afba0565e63)
